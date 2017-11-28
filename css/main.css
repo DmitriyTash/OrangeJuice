@@ -1,0 +1,68 @@
+
+.topnav {
+    background-color: #CDF7B0;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: right;
+    color: green;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 15px;
+    padding: 25px 25px 25px 25px;
+}
+
+.icon {
+	float:left;
+	display: inline;
+	max-width: 100px;
+	height: auto;
+	width: auto;
+}
+h2 {
+	float: left;
+	margin-top: 15;
+	color: green;
+}
+.image {
+	width: 500px;
+	height: 300px;
+	margin: 20px;
+	float: left;
+}
+.box {
+	display: inline;
+}
+h1 {
+	font: arial;
+	text-align: left;
+	font-size: 40px;
+	color: green;
+	margin-top: 50px;
+}
+span {
+	color: blue;
+}
+button {
+    background-color: orange;
+	padding: 15px;
+	color: black;
+	float:left;
+	font-size: 25px;
+	margin: 10px;
+}
+footer {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	background-color: powderblue;
+	text-align: center;
+	padding: 15px;
+	width: 100%;
+}
+.baby {
+	background-color: powderblue;
+	padding: 15px 55px 15px 55px;
+}
